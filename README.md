@@ -41,3 +41,7 @@ The input is tokenized and processed using the pre-trained BART model.
 The model generates a summarized version of the input.
 
 The output is printed in the console or displayed in a web interface.)
+
+#output
+
+<img width="955" alt="Image" src="https://github.com/user-attachments/assets/97eaa2e6-4723-4330-afd4-517ad4418fe7" />
